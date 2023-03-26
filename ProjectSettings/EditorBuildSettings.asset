@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 294e340f5d0abcf4eaab9814c927b5a3
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 3976a8721d2784f478eaa97bd29e8b00
+  - enabled: 1
+    path: Assets/Scenes/SamplePlan2.unity
+    guid: 3baff6093b709a9418a51f52bf7b9a17
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SceneJapan.unity
+    guid: 61c6359473cc69b47b097a0020f410ae
+  - enabled: 1
+    path: Assets/Scenes/ScenePoint.unity
+    guid: 7546f22606315634e82e6aa8410aa68c
+  - enabled: 1
+    path: Assets/Scenes/StageGuideScene/StageGuide1.unity
+    guid: 8db8b200a87900644922723ea5cecd25
+  - enabled: 1
+    path: Assets/Scenes/StageGuideScene/StageGuide2.unity
+    guid: 3450c646913097440a629917c90cc88b
+  - enabled: 1
+    path: Assets/Scenes/StageGuideScene/StageGuide6.unity
+    guid: 095b4cb9656fb9b42957bf2e1dadc804
+  - enabled: 1
+    path: Assets/Scenes/BossStage.unity
+    guid: 3b22654c1cd1d5541899ac506f3f583a
+  - enabled: 1
+    path: Assets/Scenes/SceneResult/ResultSceneNotRand.unity
+    guid: 806ab5d88ba8dd34d981388b253ec3d1
+  - enabled: 1
+    path: Assets/Scenes/SceneResult/ResultScene.unity
+    guid: b562e1162d162294994d4c50f27e23e8
+  - enabled: 1
+    path: Assets/Scenes/DoubleButtonStage.unity
+    guid: 129a29e21e61e6540ab90dac7bbf7470
+  - enabled: 1
+    path: Assets/Scenes/Stage1(Sample).unity
+    guid: c04e9d462b254ea4fba535e257fbb556
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 52d101974ea6a664386c2ca3a23242c6
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: 592463229f2a93e449c93b65d33ae46c
+  - enabled: 1
+    path: Assets/Scenes/Stage5.unity
+    guid: e76272741e0971b4980dc3f43b51c1f3
+  - enabled: 1
+    path: Assets/Scenes/Stage8.unity
+    guid: 6f0f5c606e4fbbd448544042e38e76a6
+  - enabled: 1
+    path: Assets/Scenes/StageKago.unity
+    guid: 411d00ffa6cd35a40a77801df195d06b
+  m_configObjects: {}
